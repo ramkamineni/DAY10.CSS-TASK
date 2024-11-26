@@ -1,0 +1,80 @@
+.BOX
+{
+    background-color: aqua;
+    padding: 20px;
+}
+.box1 , .box2 , .box3
+{
+    border: 3px solid black;
+    
+    margin: 20px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.box2
+{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.box1 div
+{
+   border:3px solid black;
+   height: 90px;
+   width: 120px;
+   border-radius: 33px;
+   background-color: 
+  
+
+}
+.box2 div 
+{
+  border: 3px solid black;
+  height: 250px;
+  width: 150px;
+  border-radius: 33px;  
+  background-color:
+}
+.box3 div
+{
+    border: 3px solid black;
+    height: 150px;
+    width: 200px;
+    border-radius: 33px;
+    background-color: bisque;
+}
+.box2 .box2_2
+{
+    flex-grow: 1;
+    
+}
+.img1
+{
+    height: 90px;
+    width: 120px;
+    border-radius: 30px;
+}
+.box2_2 .a1
+{   
+    border-radius: 30px;
+}
+.box3 .img2
+{
+    height: 150px;
+    width: 200px;
+    border-radius: 30px;
+}
+.a2
+{
+    border-radius: 30px;
+    height: 250px;
+    width: 150px;
+}
