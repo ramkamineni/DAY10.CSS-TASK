@@ -17,14 +17,14 @@
     flex-wrap: wrap;
     
 }
-.box2
+/* .box2
 {
 
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     padding: 20px;
-}
+} */
 .box1 div
 {
    border:3px solid black;
@@ -38,7 +38,7 @@
 .box2 div 
 {
   border: 3px solid black;
-  height: 250px;
+  height: 350px;
   width: 150px;
   border-radius: 33px;  
   background-color:
@@ -75,6 +75,6 @@
 .a2
 {
     border-radius: 30px;
-    height: 250px;
+    height: 350px;
     width: 150px;
 }
